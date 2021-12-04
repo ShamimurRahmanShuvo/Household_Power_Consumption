@@ -1,0 +1,4 @@
+matplotlib
+Seaborn
+keras
+pandas_profiling
